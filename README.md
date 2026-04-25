@@ -33,5 +33,4 @@ Estudante de desenvolvimento de software, aprendendo e construindo aos poucos.
 ## Contato
 
 - 📧 e-mail: kauahd99@gmail.com
-- linkedin: ...
 
