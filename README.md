@@ -1,12 +1,40 @@
-## Olá!!! Kauã H. aqui 👋
-- 🔭 Estudando front-end e back-end
-- 🌱 Terminando o curso de HTML e CSS
-- 📫 Fale comigo no email: kauahd99@gmail.com
-- 😄 Pronomes: ele/dele
-- 💬 "A sua ideia quer ser eternizada por você." - ...
+# Olá! eu sou Kauã Henrique 👋
 
-<div>
-    <a href="https://github.com/Kaua-Hen">
-    <img height="180em" src="htps://github-readme-stats.vercel.app/api?username=Kaua-Hen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-Hen&layout=compact&langs_count=16&theme=dracula"/>
-<div>
+Estudante de desenvolvimento de software, aprendendo e construindo aos poucos.
+
+---
+
+## Sobre mim
+
+- 🌱 Estudante de: **Python, HTML5, CSS3 e JavaScript**
+- 🔭 Trabalhando em: primeiros projetos pessoais
+- 🎯 Objetivo: evoluir como desenvolvedor e criar projetos do zero
+- 📍 Brasil
+
+---
+
+## Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaua-Hen&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-Hen&layout=compact)
+
+---
+
+## Contato
+
+- mail: kauahd99@gmail.com
+- linkedin: ...
+
+  
+- 📧 kauahd99@gmail.com
+  
