@@ -25,8 +25,8 @@ Estudante de desenvolvimento de software, aprendendo e construindo aos poucos.
 
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaua-Hen&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-Hen&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaua-Hen&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-Hen&layout=compact&theme=dracula)
 
 ---
 
